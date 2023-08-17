@@ -88,7 +88,7 @@
           </div>
           <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav navbar-right">
-              <li><a href="/SewaDVD">Home</a></li>
+              <li><a href="/">Home</a></li>
               <li class="active"><a href="dvd-list.php">List Film</a></li>
               <li><a href="chart.php">Chart</a></li>
             </ul>
